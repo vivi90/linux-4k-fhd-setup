@@ -1,7 +1,7 @@
 # 4K-FHD xrandr shell scripts for Linux
 This repository is an collection of my xrandr shell scripts to use full hd monitors (1080p) in combination with my ultra hd notebook display.
 
-# Usage
+## Usage
 Please use at first xrandr to check the name of your display and monitor(s).
 The files are named, how the display and monitor(s) are configured.
 
